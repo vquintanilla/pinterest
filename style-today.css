@@ -396,3 +396,18 @@ footer div p {
 
     }
 }
+
+.derecha {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 40px;
+    }
+.icn-perfil {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 3px;
+  }
